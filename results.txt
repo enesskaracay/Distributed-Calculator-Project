@@ -1,0 +1,8 @@
+Result: 25.00
+Result: 132.00
+Result: 88.00
+Result: 513.00
+Result: 561.00
+Result: 15742.00
+Result: 0.00
+Result: 182.00
