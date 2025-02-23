@@ -9,8 +9,8 @@ C dilinde bir hesap makinesi yapıyoruz. Bu hesap makinesinde, ana süreç ve bi
 ![Screenshot3](https://github.com/user-attachments/assets/f3384cb1-a549-4c8c-b3de-421c7e12d243)
 # Türkçe
 # İş Akışı
-• Hesap Makinesi programı başlar ve her işlem için dört alt süreç oluşturur.  
-• Kullanıcı, yapmak istediği işlemi ve iki operandı girer.  
+* Hesap Makinesi programı başlar ve her işlem için dört alt süreç oluşturur.
+* Kullanıcı, yapmak istediği işlemi ve iki operandı girer.  
 • Ana program, girdiyi ilgili alt sürece özel bir boru hattı (pipe) üzerinden gönderir.  
 • Alt süreç, hesaplamayı yapar ve sonucu ana programa geri gönderir.  
 • Alt süreç ayrıca saver programını çağırır ve saver, sonucu **results.txt** dosyasına kaydeder.  
@@ -27,7 +27,7 @@ C dilinde bir hesap makinesi yapıyoruz. Bu hesap makinesinde, ana süreç ve bi
 ▪ 5- Çıkış
 
 # Teknik Detaylar
-• Her süreç, ana program ile iletişim için kendi özel boru hattını (pipe) kullanır.
+• Her süreç, ana program ile iletişim için kendi özel boru hattını (pipe) kullanır. 
 • Ana program, alt süreçler oluşturmak için fork kullanır ve alt süreçleri çalıştırmak için exec kullanır.
 • Veri, ana program ile alt süreçler arasında boru hatları (pipes) kullanılarak aktarılır, saver hariç.
 • wait sistem çağrısı, gerektiğinde ana programın alt süreçlerin tamamlanmasını beklemesini sağlar.
