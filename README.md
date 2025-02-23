@@ -1,7 +1,7 @@
 # Distributed-Calculator-Project
-We are making a calculator in c language. In this calculator, we set up a data flow pipe structure with a main process and multiple sub-processes. A makefile was also created in the project.
+* We are making a calculator in c language. In this calculator, we set up a data flow pipe structure with a main process and multiple sub-processes. A makefile was also created in the project.
 # Türkçe
-C dilinde bir hesap makinesi yapıyoruz. Bu hesap makinesinde, ana süreç ve birden fazla alt süreçle bir veri akış boru hattı yapısı kurduk. Ayrıca projede bir Makefile oluşturuldu.
+* C dilinde bir hesap makinesi yapıyoruz. Bu hesap makinesinde, ana süreç ve birden fazla alt süreçle bir veri akış boru hattı yapısı kurduk. Ayrıca projede bir Makefile oluşturuldu.
 
 ![Screenshot2](https://github.com/user-attachments/assets/0675c69c-ce21-4c84-a8b6-4966e64ec3f4)
 ![Screenshot1](https://github.com/user-attachments/assets/de61dec5-4a76-4945-9695-2c72e4c6a2a1)
