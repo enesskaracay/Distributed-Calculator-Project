@@ -50,8 +50,6 @@ C dilinde bir hesap makinesi yapıyoruz. Bu hesap makinesinde, ana süreç ve bi
 ▪ 2- subtraction
 ▪ 3- multiplication
 ▪ 4- division
-
-
 ▪ 5- exit
 
 # Technical Details
